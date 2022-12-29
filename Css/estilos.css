@@ -19,6 +19,12 @@ text-align: center;
 margin: 0 auto;
 
 }
+#frase
+{
+    color: firebrick;
+    background-color: bisque;
+    text-align: center;
+}
 #cabecera
 {
     color: blue;
