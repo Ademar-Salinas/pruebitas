@@ -29,7 +29,8 @@ margin: 0 auto;
 {
     color: blue;
     background-color: aquamarine;
-    text-align: left;
+    text-align: center;
+    text-decoration-line: underline;
     margin: 0;
     font-size: 20px; 
 }
